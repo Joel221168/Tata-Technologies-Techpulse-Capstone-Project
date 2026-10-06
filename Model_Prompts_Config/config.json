@@ -1,0 +1,7 @@
+{
+    "project_name": "AUTOSAR HLD Analysis Assistant",
+    "version": "1.0.0",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "vector_store": "ChromaDB (Local)",
+    "citation_required": true
+}

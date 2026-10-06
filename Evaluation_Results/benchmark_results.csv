@@ -1,0 +1,4 @@
+query,expected_answer,expected_page,status
+Which component calculates fuel injection timing?,EngineControl_SWC,2,PASSED
+Where does ThrottlePosition_Signal originate?,ThrottlePosition_SWC,3,PASSED
+Identify unmapped or orphaned signals.,OrphanedSensor_Signal,3,PASSED
